@@ -24,7 +24,7 @@ SECRET_KEY = 's7zw!j_b2yd=d9p7^cdmh1^5%br4+c_ha9@^4a+p!e@=atj7nb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['codamais.herokuapp.com']
+ALLOWED_HOSTS = ['gcs01-joaopaulonsoares-circle.herokuapp.com']
 
 
 # Application definition
