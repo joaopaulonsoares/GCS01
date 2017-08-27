@@ -22,7 +22,6 @@ class Question(models.Model):
     def __str__(self):
         return self.question_text
 
-
 @python_2_unicode_compatible
 class Choice(models.Model):
     question = models.ForeignKey(Question, on_delete=models.CASCADE)
