@@ -1,6 +1,8 @@
 # GCS
 
-Neste repositório se encontram os projetos base para as atividades de GCS. Leia a descrição da atividade para saber como utiliza-los
+Atividade 1 GCS
+Aluno: João Paulo Nunes Soares
+Matrícula: 15/0038267
 
 Travis: [![Build Status](https://travis-ci.org/joaopaulonsoares/GCS01.svg?branch=master)](https://travis-ci.org/joaopaulonsoares/GCS01)
 
